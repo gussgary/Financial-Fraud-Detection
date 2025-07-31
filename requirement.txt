@@ -1,0 +1,19 @@
+#Core Library
+pandas
+numpy
+scikit-learn
+
+#Visualisation
+matplotlib
+seaborn
+
+#ML Models
+xgboost
+imbalance-learn #SMOTE or other resampling techniques
+
+#Statistical
+scipy
+
+#Environment
+jupyter
+notebook
