@@ -1,7 +1,8 @@
 # Financial-Fraud-Detection
 Postgraduate Project (MTDS)
 
-	<ins> Objective </ins>:
+
+Objective:
  
 A trained machine learning model capable of detecting fraudulent transactions with high precision and recall
 
