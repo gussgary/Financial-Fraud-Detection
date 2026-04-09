@@ -1,15 +1,11 @@
 # Financial-Fraud-Detection
-Postgraduate Project (MTDS)
-
 
 Objective:
  
-A trained machine learning model capable of detecting fraudulent transactions with high precision and recall
+- A trained machine learning model capable of detecting fraudulent transactions with high precision and recall
+- A comparison of various fraud detection methods and their suitability to financial data
+- A functional Power BI dashboard providing intuitive and actionable visual analytics
+- A reproducible and scalable fraud detection pipeline suitable for industry application
+- A polished, well-documented project that enhances employability and showcases end-to-end data science skills
 
-A comparison of various fraud detection methods and their suitability to financial data
-
-A functional Power BI dashboard providing intuitive and actionable visual analytics
-
-A reproducible and scalable fraud detection pipeline suitable for industry application
-
-A polished, well-documented project that enhances employability and showcases end-to-end data science skills
+Dataset source: https://www.kaggle.com/competitions/ieee-fraud-detection/data
