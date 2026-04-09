@@ -1,0 +1,22 @@
+[33m299c8cc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Remove CSV files from Git tracking permanently
+[33m9ec4c14[m Remove duplicate notebooks from root folder
+[33mebeabca[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Add Figure and Obsolete folders, exclude CSV files
+[33m1d5ea01[m Add Figure folder, update gitignore to exclude CSV files
+[33mba8b7d4[m Add gitignore to exclude CSV files
+[33mbf34ae0[m Initiate Feature Engineering
+[33ma80770d[m Remove GDrive link from data file
+[33m4d4ae42[m Refine project objectives in README.md
+[33m2767197[m Delete IEEE_FraudDetection_Data
+[33mb5e7d45[m Add data file and download link for IEEE Fraud Detection
+[33m35cdf93[m Add files via upload
+[33md7d2642[m Delete IEEE_FraudDetection.ipynb
+[33m5a9f6fa[m Initiate data pipeline
+[33mf80d1c9[m Created using Colab
+[33m767300c[m Delete TelcoCustomerChurn.ipynb
+[33m285a38c[m Additional part on business insight and summary
+[33mb5a22eb[m Update README.md
+[33m58ebdf1[m Update README.md
+[33md614e03[m Update README.md
+[33m6e47ed0[m Create requirement.txt
+[33mee175a7[m Create data
+[33m482bc3f[m Initial commit
