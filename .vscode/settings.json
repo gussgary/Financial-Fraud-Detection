@@ -1,7 +1,0 @@
-{
-    "dvc.dvcPath": "dvc",
-    "python-envs.defaultEnvManager": "ms-python.python:system"
-}
-
-"python.analysis.indexing": false,
-"python.analysis.autoImportCompletions": false
